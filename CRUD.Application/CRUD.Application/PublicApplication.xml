@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CRUD.Application</name>
+    </assembly>
+    <members>
+        <member name="P:CRUD.Application.Clients.CreateClient.CreateClientCommand.Email">
+            <summary>
+            Email of the client
+            </summary>
+            <example>example@example</example>
+        </member>
+    </members>
+</doc>
